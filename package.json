@@ -7,11 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
-    "@vue/cli-service": "~5.0.0"
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.77.4",
+    "sass-loader": "^14.2.1",
+    "webpack": "^5.91.0"
   }
 }
